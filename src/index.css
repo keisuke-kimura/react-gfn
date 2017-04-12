@@ -1,0 +1,52 @@
+html {
+    height:100%;
+    font-size:11px;
+}
+
+body {
+    height:100%;
+    margin:0;
+    padding:0;
+}
+
+h2 {
+    margin:0;
+    padding:20px 20px 0 20px;
+}
+
+p {
+    padding:0 20px;
+}
+
+a {
+    height: 100%;
+    color: #333;
+    text-decoration: none;
+    display:block;
+    background-color: rgba(255,255,255,0.6);
+}
+
+span {
+    display:block;
+}
+
+a:hover {
+    color: #FFF;
+    background-color: rgba(0,0,0,0.8);
+
+}
+
+#content {
+    height: 95%;
+}
+
+div.header {
+    background: #333;
+    padding:10px;
+    margin:0 auto;
+    text-align: center;
+    height:5%;
+}
+div.header img {
+    margin:0 auto;
+}
